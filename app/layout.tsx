@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "BLOCKWAR Store - Premium LifeSteal Minecraft Server",
   description:
     "Official BLOCKWAR Minecraft Server Store - Purchase ranks, coins, and exclusive items for the ultimate LifeSteal experience.",
-  generator: "v0.app",
+  generator: "Exoo.cloud",
 }
 
 export default function RootLayout({
