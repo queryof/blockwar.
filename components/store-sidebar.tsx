@@ -100,7 +100,7 @@ export function StoreSidebar() {
               <div className="text-xs text-muted-foreground">Gamemode</div>
               <div className="flex items-center gap-2 mt-1">
                 <Badge className="bg-primary text-primary-foreground text-xs">LifeSteal</Badge>
-                <span className="text-xs text-secondary font-medium">(reg gridint)</span>
+                <span className="text-xs text-secondary font-medium">Hot</span>
               </div>
             </div>
           </div>
