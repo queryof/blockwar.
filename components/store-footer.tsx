@@ -61,7 +61,7 @@ export function StoreFooter() {
                 <span className="text-foreground">
                   {t("home.lifesteal")} {t("home.gamemode")}
                 </span>
-                <span className="text-xs text-secondary">(reg gridint)</span>
+                <span className="text-xs text-secondary">Hot</span>
               </div>
             </div>
           </div>
